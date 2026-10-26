@@ -1,0 +1,56 @@
+{
+  "intervalDays": 7,
+  "automaticPublicationEnabled": false,
+  "articles": [
+    {
+      "id": "biobased-packaging-consultation-20261021",
+      "title": "生物基塑料包装征求意见：材料企业可以关注什么？",
+      "summary": "欧盟一项包装材料征求意见正在进行。本文梳理公告事实与材料业务沟通要点，不把征求意见解读为已生效的新要求。",
+      "originIds": [
+        "https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en|2026-10-21|9c846f33f671179f5ffa6933a18c5ae2af687b7e48a21a611570bb94a72aa60f"
+      ],
+      "reviewedAt": "2026-10-25T21:20:52.457Z",
+      "publishedAt": "2026-10-25T21:20:52.457Z",
+      "demo": false,
+      "status": "approved",
+      "publicationApproved": true,
+      "sources": [
+        {
+          "name": "欧盟委员会环境总司：生物基塑料包装征求意见公告",
+          "url": "https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en",
+          "dataPeriod": "2026年10月21日公告；反馈期至2027年1月13日",
+          "evidenceLocation": "原文标题、Publication date、Why stakeholder input matters及may develop段落",
+          "reuseApproved": true,
+          "publishedOn": "2026-10-21",
+          "collectedAt": "2026-10-25T21:20:43.083Z",
+          "evidenceHash": "9c846f33f671179f5ffa6933a18c5ae2af687b7e48a21a611570bb94a72aa60f",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://commission.europa.eu/legal-notice_en",
+          "author": "European Commission · Directorate-General for Environment"
+        }
+      ],
+      "facts": [
+        {
+          "text": "欧盟委员会环境总司于2026年10月21日就塑料包装使用生物基原料启动公开征求意见。",
+          "sourceIndex": 0
+        },
+        {
+          "text": "原文列明反馈截止日为2027年1月13日，原料供应商、包装加工企业和回收企业等可提交意见。",
+          "sourceIndex": 0
+        }
+      ],
+      "sourceViews": [
+        {
+          "text": "欧委会表示，反馈将支持有关技术与环境表现的评估，并可能据此提出后续立法建议。",
+          "sourceIndex": 0
+        }
+      ],
+      "analysis": [
+        "如果业务涉及出口包装供应链，可先确认客户的具体应用和目标市场，再梳理原料来源、性能要求与回收兼容性等资料。这是业务沟通建议，并不等于已经新增了某项合规义务。",
+        "公告讨论包装和生物基原料，不能直接说明国内PA6、PA66、POM供需或价格。在缺少订单、库存和具体牌号报价证据时，不据此推演涨跌。"
+      ],
+      "limitations": "这是一篇单源政策观察，不是中国塑胶市场综合行情，也不能证明京瀚具备某个生物基牌号、环保认证或品牌授权。具体产品要求仍应按适用规则和客户资料核对。",
+      "editorialMethod": "AI 辅助整理与原文逐项核对，未经独立人工审核"
+    }
+  ]
+}
